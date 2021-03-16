@@ -1,41 +1,23 @@
 # Social Media Post Classification within the MediaEval 2015 dataset
 
-# Introduction and data analysis (10)
+## TASKS
+- Data Analysis
+- Algorithm Design
+- Evalutation
 
-## Introduction
+## MODULE
+Machine Learning Technologies (COMP32222)
 
-## Data Analysis
+## DESCRIPTION
+This individual project was set with an aim to explore ways of automatically classifying Twitter news related content as real or fake. Within this coursework, I designed a machine learning algorithm for classifying Twitter posts from MediaEval 2015 "verifying multimedia use" challenge dataset.
+The project was based on Python and Jupyter Notebook, along with the use of scikit-learn library, numpy, pandas and deep translator.
+The dataset contained 14,277 training data entries and 3755 testing data entries, and each entry had the following set of features:
 
-## Problem Description
+tweetId / tweetText / userId / imageId / username / timestamp / label
 
-## Data description
+## DATA ANALYSIS
 
-# Algorithm design (35)
 
-## Preprocessing
+## ALGORITHM DESIGN
 
-## Feature Selection
-
-## Dimensionality Reduction
-
-## Machine Learning Algorithm Design
-
-# Evaluation (35)
-
-## Evaluation of algorithm
-
-### Configurations
-
-### Statistical significance
-
-### Results compared to literature
-
-# Conclusion(10)
-
-## Evaluation Results
-
-## Gained Insights
-
-## Future Improvements
-
-# References
+## EVALUATION AND RESULT
